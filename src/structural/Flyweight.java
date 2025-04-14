@@ -20,7 +20,7 @@ import java.util.HashMap;
 
 
 interface Tree {
-    void display(int x, int y);  // method declaration must end with ;
+    void display(int x, int y);  
 }
 
 class TreeType implements Tree {
